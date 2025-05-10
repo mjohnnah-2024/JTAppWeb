@@ -41,11 +41,7 @@
   </div>
   <!-- End Hero -->
    
-    <!-- ========== Fornt page hero cover ========== -->
-
-    <!-- ========== Domain registration form ========== -->
     <x-shared.domainregistrationform />
-
    
 
 </x-layout.app>
