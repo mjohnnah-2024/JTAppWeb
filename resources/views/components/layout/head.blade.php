@@ -1,8 +1,11 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="i-Finance PNG Limited - is a loan finance company.">
+    <meta name="keywords" content="Financial Companny Website, Loan Products, Personal Loan, Business SME Loan, Refinancing">
+    <title> @yield('title') - Jethro Tech </title>
+    <link href="{{asset('img/favicon.png')}}" rel="icon">
 
-    <title>Laravel API Demo</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap" rel="stylesheet">

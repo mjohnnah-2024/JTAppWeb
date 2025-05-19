@@ -3,15 +3,19 @@
 <x-layout.head />
 
 <body>
-    <!-- ========== MAIN CONTENT ========== -->
+    <!-- ========== Main content ========== -->
 <main id="content">
-   
+     <div class="overflow-hidden">   
     <x-layout.header />
+     <hr class="border-t border-gray-200 dark:border-gray-700" />  
   
     {{ $slot }} 
 
+     </div>
 </main>
-
+ <!-- ========== Footer ========== -->
+ <br /> <br />  <br /> <br />
+ <hr class="border-t border-gray-200 dark:border-gray-700" />
 <x-layout.footer />
 </body>
 </html>

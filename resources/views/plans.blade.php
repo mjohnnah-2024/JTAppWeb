@@ -1,8 +1,9 @@
 
 <x-layout.app>
-    <!-- ========== Fornt page hero cover ========== -->
-  <!-- <div class="relative">   front cover
-   </div> -->
+  @section('title', content: 'Plans')
+   <br />
+   <br /> 
+   <br />
    <x-shared.pricehero />
-    <!-- ========== Fornt page hero cover ========== -->
+   
 </x-layout.app>
