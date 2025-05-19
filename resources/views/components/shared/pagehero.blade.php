@@ -15,7 +15,7 @@
         </div>
         <!-- End Title -->
 
-        <!-- Switch -->
+        <!-- Switch 
         <div class="flex justify-center items-center gap-x-3">
           <label for="pricing-switch" class="text-sm text-gray-800 dark:text-neutral-200">Monthly</label>
           <label for="pricing-switch" class="relative inline-block w-11 h-6 cursor-pointer">
@@ -25,7 +25,7 @@
           </label>
           <label for="pricing-switch" class="text-sm text-gray-800 dark:text-neutral-200">Annually</label>
         </div>
-        <!-- End Switch -->
+         End Switch -->
 
         <!-- Grid -->
         <div class="mt-6 md:mt-12 grid sm:grid-cols-2 lg:grid-cols-4 gap-3 md:gap-6 lg:gap-3 xl:gap-6 lg:items-center">
@@ -106,7 +106,7 @@
           <div class="flex flex-col bg-white border border-gray-200 text-center rounded-2xl p-4 md:p-8 dark:bg-neutral-900 dark:border-neutral-800">
             <h4 class="font-medium text-lg text-gray-800 dark:text-neutral-200">Team</h4>
             <span class="mt-5 font-bold text-3xl md:text-4xl xl:text-5xl text-gray-800 dark:text-neutral-200">
-              $89
+              K89 <span class="text-sm text-gray-500 dark:text-neutral-500">/month</span>
             </span>
             <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">Everything you need for a growing business</p>
 
@@ -143,7 +143,7 @@
           <div class="flex flex-col bg-white border border-gray-200 text-center rounded-2xl p-4 md:p-8 dark:bg-neutral-900 dark:border-neutral-800">
             <h4 class="font-medium text-lg text-gray-800 dark:text-neutral-200">Enterprise</h4>
             <span class="mt-5 font-bold text-3xl md:text-4xl xl:text-5xl text-gray-800 dark:text-neutral-200">
-              $149
+              K149 <span class="text-sm text-gray-500 dark:text-neutral-500">/month</span>
             </span>
             <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">Advanced features for scaling your business</p>
 
