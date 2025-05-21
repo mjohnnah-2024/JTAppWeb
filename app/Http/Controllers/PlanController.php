@@ -12,7 +12,48 @@ class PlanController extends Controller
     public function index()
     {
         //
+$server = 'https://d7.my-control-panel.com:2222';
+$user = 'mjdev';
+$password = 'Kuambe02@';
+$endpoint = '/api/db-show/databases';
+
+$curl = curl_init();
+curl_setopt($curl, CURLOPT_URL, $server . $endpoint);
+curl_setopt($curl, CURLOPT_USERPWD, $user . ":" . $password);
+curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($curl, CURLOPT_FAILONERROR, true);
+
+$response_json = curl_exec($curl);
+curl_close($curl);
+
+$response = json_decode($response_json, true);
+if (isset($response['error'])) {
+    echo "Error: " . $response['error'];
+} else {
+    echo "<pre>";
+    print_r($response);
+    echo "</pre>";
+    // Process the response as needed
+    // For example, you can loop through the databases and display their names
+    //foreach ($response as $database) {
+       // echo "Database Name: " . $database['name'] . "<br>";
+        // Add more fields as needed
+
     }
+    // You can also return the response to a view
+    // return view('your_view', ['databases' => $response]);
+    // Or return a JSON response
+    // return response()->json($response);
+    // Or return a JSON response
+    // return response()->json($response);
+    // Or return a JSON response
+    return response()->json($response);
+
+    //dd($response);
+
+    //return view('dbs', ['databases' => $response]);
+}
+    
 
     /**
      * Show the form for creating a new resource.

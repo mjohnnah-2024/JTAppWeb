@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\DomainController;
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\PlanController;
 
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
@@ -21,3 +22,5 @@ Route::get('/domain', [DomainController::class, 'index'])->name('domain.index');
 
 Route::get('/domain/create', [DomainController::class, 'create'])->name('domain.create');
 Route::post('/domain/create', [DomainController::class, 'store'])->name('domain.store');
+
+Route::get('/dbs', [PlanController::class, 'index'])->name('plan.index');

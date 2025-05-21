@@ -11,7 +11,7 @@
         <!-- Title -->
         <div class="max-w-2xl mx-auto text-center mb-10">
           <h2 class="text-3xl leading-tight font-bold md:text-4xl md:leading-tight lg:text-5xl lg:leading-tight bg-clip-text bg-linear-to-r from-violet-600 to-fuchsia-700 text-transparent">Web Hosting Plans and Pricing</h2>
-          <p class="mt-2 lg:text-lg text-gray-800 dark:text-neutral-200">Whatever your business requirements, our offers evolve according to your needs. Note that we offer Control Panel access to all our subscribers regardless of your plan type</p>
+          <p class="mt-2 lg:text-lg text-gray-800 dark:text-neutral-200">Whatever your business requirements, our offers evolve according to your needs. Note that we offer free Control Panel access to all our subscribers regardless of their plan type</p>
         </div>
         <!-- End Title -->
 
@@ -110,14 +110,14 @@
                <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
-                  6 websites
+                  6 Websites
                 </span>
               </li>
 
               <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
-                 10 emails accounts
+                 10 Email accounts
                 </span>
               </li>
 
@@ -127,6 +127,14 @@
                   6 MySQL databases
                 </span>
               </li>
+
+               <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  2G Disk space
+                </span>
+              </li>
+
 
                <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
@@ -175,7 +183,7 @@
                <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
-                  30 email accounts
+                  30 Email accounts
                 </span>
               </li>
 
@@ -185,6 +193,14 @@
                   15 MySQL databases
                 </span>
               </li>
+
+              <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  4G Disk space
+                </span>
+              </li>
+
                <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
@@ -225,14 +241,14 @@
                <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
-                  60 websites
+                  60 Websites
                 </span>
               </li>
 
                <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
-                  100 email accounts
+                  100 Email accounts
                 </span>
               </li>
 
@@ -240,6 +256,13 @@
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
                   60 MySQL databases
+                </span>
+              </li>
+
+              <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  10G Disk space
                 </span>
               </li>
 
