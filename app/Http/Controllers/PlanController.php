@@ -13,7 +13,7 @@ class PlanController extends Controller
     {
         //
 $server = 'https://d7.my-control-panel.com:2222';
-$user = 'mjdev';
+$user = 'mjohnnah';
 $password = 'Kuambe02@';
 $endpoint = '/api/db-show/databases';
 
@@ -47,11 +47,12 @@ if (isset($response['error'])) {
     // Or return a JSON response
     // return response()->json($response);
     // Or return a JSON response
-    return response()->json($response);
+    //return response()->json($response);
 
     //dd($response);
 
-    //return view('dbs', ['databases' => $response]);
+   // return view('dbs', compact( $response));
+    return view('dbs', ['databases' => $response]);
 }
     
 

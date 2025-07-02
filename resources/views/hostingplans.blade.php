@@ -4,6 +4,7 @@
    <br />
    <br /> 
    <br />
-   <x-shared.pricehero />
+   
+    <x-shared.planspricing />
    
 </x-layout.app>

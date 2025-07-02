@@ -6,21 +6,20 @@ use App\Http\Controllers\HomeController;
 use App\Http\Controllers\PlanController;
 
 
-Route::get('/', [HomeController::class, 'index'])->name('home');
+Route::get('/', [HomeController::class, 'index'])->name('home.index');
+Route::get('/about', [HomeController::class, 'about'])->name('home.about');
+Route::get('/hosting-plans', [HomeController::class, 'plan'])->name('home.plans');
+Route::get('/contact-us', [HomeController::class, 'contact'])->name('home.contact');
+Route::post('/savecontact', [HomeController::class, 'savecontact'])->name('home.savecontact');
 
-Route::get('/plans', [HomeController::class, 'plan'])->name('plans');
 /* Route::get('/domain-registration', [HomeController::class, 'domainregistration'])->name('domainregistration');
-
 Route::get('/domain-registration', function () {
     return view('domainregistration');
 });
 */
+
 Route::get('/domain', [DomainController::class, 'index'])->name('domain.index');
-
-
-//Route::resource('domain', DomainController::class);
-
-Route::get('/domain/create', [DomainController::class, 'create'])->name('domain.create');
+Route::get('/domain/register', [DomainController::class, 'create'])->name('domain.create');
 Route::post('/domain/create', [DomainController::class, 'store'])->name('domain.store');
 
 Route::get('/dbs', [PlanController::class, 'index'])->name('plan.index');
