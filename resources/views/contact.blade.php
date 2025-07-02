@@ -39,19 +39,34 @@
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div>
                 <label for="hs-firstname-contacts-1" class="sr-only">First Name</label>
-                <input type="text" name="firstname" id="hs-firstname-contacts-1" class="py-2.5 sm:py-3 px-4 block w-full border-gray-200 rounded-lg sm:text-sm focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-400 dark:placeholder-neutral-500 dark:focus:ring-neutral-600" placeholder="First Name" required>
+                <input type="text" name="firstname" id="hs-firstname-contacts-1" class="py-2.5 sm:py-3 px-4 block w-full border-gray-200 rounded-lg sm:text-sm focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-400 dark:placeholder-neutral-500 dark:focus:ring-neutral-600" placeholder="First Name">
+                 <div class="mt-2 text-sm text-red-700 dark:text-red-400">
+                  @error('firstname')
+                    {{ $message }}
+                  @enderror
+                 </div>
               </div>
 
               <div>
                 <label for="hs-lastname-contacts-1" class="sr-only">Last Name</label>
-                <input type="text" name="lastname" id="hs-lastname-contacts-1" class="py-2.5 sm:py-3 px-4 block w-full border-gray-200 rounded-lg sm:text-sm focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-400 dark:placeholder-neutral-500 dark:focus:ring-neutral-600" placeholder="Last Name" required>
+                <input type="text" name="lastname" id="hs-lastname-contacts-1" class="py-2.5 sm:py-3 px-4 block w-full border-gray-200 rounded-lg sm:text-sm focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-400 dark:placeholder-neutral-500 dark:focus:ring-neutral-600" placeholder="Last Name">
+                <div class="mt-2 text-sm text-red-700 dark:text-red-400">
+                  @error('lastname')
+                    {{ $message }}
+                  @enderror
+                </div>
               </div>
             </div>
             <!-- End Grid -->
 
             <div>
               <label for="hs-email-contacts-1" class="sr-only">Email</label>
-              <input type="email" name="email" id="hs-email-contacts-1" autocomplete="email" class="py-2.5 sm:py-3 px-4 block w-full border-gray-200 rounded-lg sm:text-sm focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-400 dark:placeholder-neutral-500 dark:focus:ring-neutral-600" placeholder="Email" required>
+              <input type="email" name="email" id="hs-email-contacts-1" autocomplete="email" class="py-2.5 sm:py-3 px-4 block w-full border-gray-200 rounded-lg sm:text-sm focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-400 dark:placeholder-neutral-500 dark:focus:ring-neutral-600" placeholder="Email">
+              <div class="mt-2 text-sm text-red-700 dark:text-red-400">
+                @error('email')
+                  {{ $message }}
+                @enderror
+              </div>
             </div>
 
             <div>              
@@ -72,12 +87,22 @@
                 <option value="Wordpress Hosting">Wordpress Hosting</option>
                  <option value="Other Query">Other Query</option> 
               </select>
+              <div class="mt-2 text-sm text-red-700 dark:text-red-400">
+                @error('query')
+                  {{ $message }}
+                @enderror
+              </div>
             </div>
 
             <div>
               <label for="hs-about-contacts-1" class="sr-only">Details</label>
               <textarea id="hs-about-contacts-1" name="message" rows="4" class="py-2.5 sm:py-3 px-4 block w-full border-gray-200 rounded-lg sm:text-sm focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-400 dark:placeholder-neutral-500 dark:focus:ring-neutral-600" placeholder="Details"></textarea>
             </div>
+             <div class="mt-2 text-sm text-red-700 dark:text-red-400">
+              @error('message')
+                {{ $message }}
+              @enderror
+             </div>
           </div>
           <!-- End Grid -->
 
