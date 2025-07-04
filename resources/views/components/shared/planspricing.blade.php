@@ -10,7 +10,7 @@
       <div class="max-w-[85rem] px-4 pt-10 sm:px-6 lg:px-8 lg:pt-14 mx-auto">
         <!-- Title -->
         <div class="max-w-2xl mx-auto text-center mb-10">
-          <h2 class="text-3xl leading-tight font-bold md:text-4xl md:leading-tight lg:text-5xl lg:leading-tight bg-clip-text bg-linear-to-r from-violet-600 to-fuchsia-700 text-transparent">Web Hosting Plans and Pricing</h2>
+          <h2 class="text-3xl leading-tight font-bold md:text-4xl md:leading-tight lg:text-5xl lg:leading-tight bg-clip-text bg-linear-to-r from-violet-600 to-fuchsia-700 text-transparent">Hosting Plans and Pricing</h2>
           <p class="mt-2 lg:text-lg text-gray-800 dark:text-neutral-200">Whatever your business requirements, our offers evolve according to your needs. Note that we offer free Control Panel access to all our subscribers regardless of their plan type</p>
         </div>
         <!-- End Title -->
@@ -77,7 +77,7 @@
 
             </ul>
 
-            <a class="mt-5 py-3 px-4 w-full inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-violet-600 text-violet-600 hover:border-violet-500 hover:text-violet-500 focus:outline-hidden focus:border-violet-500 focus:text-violet-500 disabled:opacity-50 disabled:pointer-events-none dark:border-violet-500 dark:text-violet-500 dark:hover:text-violet-400 dark:hover:border-violet-400 dark:focus:text-violet-400 dark:focus:border-violet-400" href="/domain/create" >
+            <a class="mt-5 py-3 px-4 w-full inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-violet-600 text-violet-600 hover:border-violet-500 hover:text-violet-500 focus:outline-hidden focus:border-violet-500 focus:text-violet-500 disabled:opacity-50 disabled:pointer-events-none dark:border-violet-500 dark:text-violet-500 dark:hover:text-violet-400 dark:hover:border-violet-400 dark:focus:text-violet-400 dark:focus:border-violet-400" href="https://client.jethrotech.com.pg/order/product?pid=61e50989-73d2-4787-d97f-e45e610832d7" >
               Get started
             </a>
           </div>
@@ -90,7 +90,7 @@
             <span class="mt-5 font-bold text-3xl md:text-4xl xl:text-5xl text-gray-800 dark:text-neutral-200">
               K59 <span class="text-sm text-gray-500 dark:text-neutral-500">/month</span>
             </span>
-            <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">More than what you need for a SME business</p>
+            <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">More than what you need for a Micro, Small and Medium Enterprises</p>
 
             <ul class="mt-7 space-y-2.5 text-sm">
               <li class="flex gap-x-2">
@@ -144,7 +144,7 @@
               </li>
             </ul>
 
-            <a class="mt-5 py-3 px-4 w-full inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-transparent bg-violet-600 text-white hover:bg-violet-700 focus:outline-hidden focus:bg-violet-700 disabled:opacity-50 disabled:pointer-events-none" href="https://client.jethrotech.com.pg/order/product?pid=80d1639e-237d-4380-03dc-54610589e572">
+            <a class="mt-5 py-3 px-4 w-full inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-transparent bg-violet-600 text-white hover:bg-violet-700 focus:outline-hidden focus:bg-violet-700 disabled:opacity-50 disabled:pointer-events-none" href="https://client.jethrotech.com.pg/order/product?pid=80d1639e-237d-4380-03dc-54610589e572" target="_blank">
               Get started
             </a>
           </div>
@@ -156,7 +156,7 @@
             <span class="mt-5 font-bold text-3xl md:text-4xl xl:text-5xl text-gray-800 dark:text-neutral-200">
               K159 <span class="text-sm text-gray-500 dark:text-neutral-500">/month</span>
             </span>
-            <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">Everything you need for a growing business</p>
+            <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">Everything you need for a growing organisation or business enterprise</p>
 
             <ul class="mt-7 space-y-2.5 text-sm">
               <li class="flex gap-x-2">
@@ -209,7 +209,7 @@
               </li>
             </ul>
 
-            <a class="mt-5 py-3 px-4 w-full inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-violet-600 text-violet-600 hover:border-violet-500 hover:text-violet-500 focus:outline-hidden focus:border-violet-500 focus:text-violet-500 disabled:opacity-50 disabled:pointer-events-none dark:border-violet-500 dark:text-violet-500 dark:hover:text-violet-400 dark:hover:border-violet-400 dark:focus:text-violet-400 dark:focus:border-violet-400" href="https://client.jethrotech.com.pg/order/product?pid=2e071d93-1d5e-4627-762a-646028758396">
+            <a class="mt-5 py-3 px-4 w-full inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-violet-600 text-violet-600 hover:border-violet-500 hover:text-violet-500 focus:outline-hidden focus:border-violet-500 focus:text-violet-500 disabled:opacity-50 disabled:pointer-events-none dark:border-violet-500 dark:text-violet-500 dark:hover:text-violet-400 dark:hover:border-violet-400 dark:focus:text-violet-400 dark:focus:border-violet-400" href="https://client.jethrotech.com.pg/order/product?pid=2e071d93-1d5e-4627-762a-646028758396" target="_blank">
               Get started
             </a>
           </div>
@@ -221,7 +221,7 @@
             <span class="mt-5 font-bold text-3xl md:text-4xl xl:text-5xl text-gray-800 dark:text-neutral-200">
               K489 <span class="text-sm text-gray-500 dark:text-neutral-500">/month</span>
             </span>
-            <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">Advanced features for scaling your business</p>
+            <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">Advanced features for scaling your corporate organisations or business enterprise</p>
 
             <ul class="mt-7 space-y-2.5 text-sm">
               <li class="flex gap-x-2">
@@ -274,7 +274,7 @@
               </li>
             </ul>
 
-            <a class="mt-5 py-3 px-4 w-full inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-violet-600 text-violet-600 hover:border-violet-500 hover:text-violet-500 focus:outline-hidden focus:border-violet-500 focus:text-violet-500 disabled:opacity-50 disabled:pointer-events-none dark:border-violet-500 dark:text-violet-500 dark:hover:text-violet-400 dark:hover:border-violet-400 dark:focus:text-violet-400 dark:focus:border-violet-400" href="https://client.jethrotech.com.pg/order/product?pid=93e8d569-d072-452d-d8eb-54e853121607">
+            <a class="mt-5 py-3 px-4 w-full inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-violet-600 text-violet-600 hover:border-violet-500 hover:text-violet-500 focus:outline-hidden focus:border-violet-500 focus:text-violet-500 disabled:opacity-50 disabled:pointer-events-none dark:border-violet-500 dark:text-violet-500 dark:hover:text-violet-400 dark:hover:border-violet-400 dark:focus:text-violet-400 dark:focus:border-violet-400" href="https://client.jethrotech.com.pg/order/product?pid=93e8d569-d072-452d-d8eb-54e853121607" target="_blank">
               Get started
             </a>
           </div>

@@ -37,13 +37,13 @@ class DomainController extends Controller
         // Validate the request data
         $request->validate([
             'domain_name' => 'required|string|max:255',
-            'domain_type' => 'nullable|string|max:50', // .com, .net, .org, etc.
-            'company_name' => 'nullable|string|max:255',
+            'domain_type' => 'required|string|max:50', // .com, .net, .org, etc.
+            'company_name' => 'required|string|max:255',
             'notes' => 'nullable|string',
-            'contact_email' => 'nullable|email|max:255',
+            'contact_email' => 'required|email|max:255',
             'contact_phone' => 'nullable|string|max:20',
-            'contact_name' => 'nullable|string|max:255',
-            'ipa_number' => 'nullable|string|max:80',
+            'contact_name' => 'required|string|max:255',
+            'ipa_number' => 'required|string|max:80',
         ]);
         // Create a new domain record
         Domain::create([
@@ -55,7 +55,7 @@ class DomainController extends Controller
             'contact_phone' => $request->input('contact_phone'),
             'contact_name' => $request->input('contact_name'),
             'ipa_number' => $request->input('ipa_number'),
-            'status' => 'new', // Default status
+            //'status' => 'new', // Default status
         ]);
       //  $validatedData = $request->validated();
 
@@ -85,7 +85,7 @@ class DomainController extends Controller
         ]);
         */
 
-        return redirect()->route('domain.index')->with('success', 'Domain registered successfully!');
+        return redirect()->back()->with('success', 'Domain registration form submitted successfully!');
     }
 
     /**

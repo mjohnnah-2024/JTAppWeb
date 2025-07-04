@@ -6,5 +6,7 @@
    <br />
    
     <x-shared.planspricing />
+    <br />
+    
    
 </x-layout.app>

@@ -3,29 +3,29 @@
  <div class="mt-6 md:mt-12 grid sm:grid-cols-2 lg:grid-cols-4 gap-3 md:gap-6 lg:gap-3 xl:gap-6 lg:items-center">
     <!-- Card -->
     <div class="flex flex-col bg-white border border-gray-200 text-center rounded-2xl p-4 md:p-8 dark:bg-neutral-900 dark:border-neutral-800">
-      <h4 class="font-medium text-lg text-gray-800 dark:text-neutral-200">Free</h4>
-      <span class="mt-7 font-bold text-3xl md:text-4xl xl:text-5xl text-gray-800 dark:text-neutral-200">Free</span>
-      <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">Get started with basic features</p>
+      <h4 class="font-medium text-lg text-gray-800 dark:text-neutral-200">Custom</h4>
+      <span class="mt-7 font-bold text-3xl md:text-4xl xl:text-5xl text-gray-800 dark:text-neutral-200">Custom</span>
+      <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">We customise the plan features according to your business requirments.</p>
 
       <ul class="mt-7 space-y-2.5 text-sm">
         <li class="flex gap-x-2">
           <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
           <span class="text-gray-800 dark:text-neutral-400">
-            1 user
+          Everything unlimited
           </span>
         </li>
 
         <li class="flex gap-x-2">
           <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
           <span class="text-gray-800 dark:text-neutral-400">
-            Plan features
+           Premium support
           </span>
         </li>
 
         <li class="flex gap-x-2">
           <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
           <span class="text-gray-800 dark:text-neutral-400">
-            Product support
+          Full access to Control Panel
           </span>
         </li>
       </ul>
@@ -38,12 +38,15 @@
 
     <!-- Card -->
     <div class="flex flex-col bg-white border-2 border-violet-900 text-center shadow-xl rounded-2xl p-4 md:p-8 dark:bg-neutral-900 dark:border-violet-700">
-      <p class="mb-3"><span class="inline-flex items-center gap-1.5 py-1.5 px-3 rounded-lg text-xs uppercase font-semibold bg-violet-100 text-violet-800 dark:bg-violet-900 dark:text-white">Most popular</span></p>
-      <h4 class="font-medium text-lg text-gray-800 dark:text-neutral-200">Startup</h4>
+      <p class="mb-3"><span class="inline-flex items-center gap-1.5 py-1.5 px-3 rounded-lg text-xs uppercase font-semibold bg-violet-100 text-violet-800 dark:bg-violet-900 dark:text-white">New product</span></p>
+      <h4 class="font-medium text-lg text-gray-800 dark:text-neutral-200">Reseller Hosting</h4>
       <span class="mt-5 font-bold text-3xl md:text-4xl xl:text-5xl text-gray-800 dark:text-neutral-200">
-        $39
+        K2500
       </span>
-      <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">All the basics for starting a new business</p>
+      <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">
+         You want to start your own web hosting business? We provide reseller hosting plans that allow you to create and manage your own hosting packages,
+         giving you the flexibility to cater to your clients' needs.
+      </p>
 
       <ul class="mt-7 space-y-2.5 text-sm">
         <li class="flex gap-x-2">

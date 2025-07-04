@@ -19,12 +19,15 @@ class HomeController extends Controller
     {
         return view('about');
     }
-
-
     
     public function plan()
     {
         return view('hostingplans');
+    }
+
+        public function reseller()
+    {
+        return view('resellerplans');
     }
 
      public function contact()

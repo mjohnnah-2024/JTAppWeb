@@ -23,7 +23,7 @@
     <!-- End Card -->
 
     <!-- Card -->
-    <a class="group flex flex-col bg-white border border-gray-200 shadow-2xs rounded-xl hover:shadow-md focus:outline-hidden focus:shadow-md transition dark:bg-neutral-900 dark:border-neutral-800" href="https://client.jethrotech.com.pg/order/shop?catid=01e96d29-8537-d4e0-dd3f-14e120637085" target="_blank">
+    <a class="group flex flex-col bg-white border border-gray-200 shadow-2xs rounded-xl hover:shadow-md focus:outline-hidden focus:shadow-md transition dark:bg-neutral-900 dark:border-neutral-800" href="{{ route('home.plans') }}">
       <div class="p-4 md:p-5">
         <div class="flex justify-between items-center gap-x-3">
           <div class="grow">
@@ -95,7 +95,8 @@
             Reseller Hosting
             </h3>
             <p class="text-sm text-gray-500 dark:text-neutral-500">
-             You want to satrt your own web hosting business? We provide reseller hosting plans that allow you to create and manage your own hosting packages, giving you the flexibility to cater to your clients' needs.
+             You want to satrt your own web hosting business? We provide reseller hosting plans that allow you to create and manage your own hosting packages,
+              giving you the flexibility to cater to your clients' needs.
             </p>
           </div>
           <div>
@@ -107,7 +108,7 @@
     <!-- End Card -->
 
     <!-- Card -->
-    <a class="group flex flex-col bg-white border border-gray-200 shadow-2xs rounded-xl hover:shadow-md focus:outline-hidden focus:shadow-md transition dark:bg-neutral-900 dark:border-neutral-800" href="#">
+    <a class="group flex flex-col bg-white border border-gray-200 shadow-2xs rounded-xl hover:shadow-md focus:outline-hidden focus:shadow-md transition dark:bg-neutral-900 dark:border-neutral-800" href="{{ route('home.contact')  }}">
       <div class="p-4 md:p-5">
         <div class="flex justify-between items-center gap-x-3">
           <div class="grow">
