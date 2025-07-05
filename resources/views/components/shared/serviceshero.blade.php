@@ -53,7 +53,7 @@
             </h3>
             <p class="text-sm text-gray-500 dark:text-neutral-500">
               We develop websites, web applications and provide hosting for cloud applications developed
-              based on PHP, Node.js, Phython and C# .Net.
+              based on PHP, Node.js, Python and C# .Net.
             </p>.
 
             </p>
