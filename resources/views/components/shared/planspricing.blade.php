@@ -11,7 +11,7 @@
         <!-- Title -->
         <div class="max-w-2xl mx-auto text-center mb-10">
           <h2 class="text-3xl leading-tight font-bold md:text-4xl md:leading-tight lg:text-5xl lg:leading-tight bg-clip-text bg-linear-to-r from-violet-600 to-fuchsia-700 text-transparent">Hosting Plans and Prices</h2>
-          <p class="mt-2 lg:text-lg text-gray-800 dark:text-neutral-200">Whatever your business requirements, our offers evolve according to your needs. We offer free Control Panel access to all our subscribers</p>
+          <p class="mt-2 lg:text-lg text-gray-800 dark:text-neutral-200">Whatever your business requirements, our offers evolve according to your needs. We offer free Control Panel access to all our subscribers.</p>
         </div>
         <!-- End Title -->
 
@@ -473,7 +473,7 @@
               </li>
             </ul>
 
-            <a class="mt-5 py-3 px-4 w-full inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-violet-600 text-violet-600 hover:border-violet-500 hover:text-violet-500 focus:outline-hidden focus:border-violet-500 focus:text-violet-500 disabled:opacity-50 disabled:pointer-events-none dark:border-violet-500 dark:text-violet-500 dark:hover:text-violet-400 dark:hover:border-violet-400 dark:focus:text-violet-400 dark:focus:border-violet-400" href="https://client.jethrotech.com.pg/order/product?pid=2e071d93-1d5e-4627-762a-646028758396" target="_blank">
+            <a class="mt-5 py-3 px-4 w-full inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-violet-600 text-violet-600 hover:border-violet-500 hover:text-violet-500 focus:outline-hidden focus:border-violet-500 focus:text-violet-500 disabled:opacity-50 disabled:pointer-events-none dark:border-violet-500 dark:text-violet-500 dark:hover:text-violet-400 dark:hover:border-violet-400 dark:focus:text-violet-400 dark:focus:border-violet-400" href="https://client.jethrotech.com.pg/order/shop?catid=27831d63-50d8-2496-9d8f-d49e176259e0" target="_blank">
               Get started
             </a>
           </div>
@@ -531,7 +531,7 @@
               </li>
             </ul>
 
-            <a class="mt-5 py-3 px-4 w-full inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-violet-600 text-violet-600 hover:border-violet-500 hover:text-violet-500 focus:outline-hidden focus:border-violet-500 focus:text-violet-500 disabled:opacity-50 disabled:pointer-events-none dark:border-violet-500 dark:text-violet-500 dark:hover:text-violet-400 dark:hover:border-violet-400 dark:focus:text-violet-400 dark:focus:border-violet-400" href="https://client.jethrotech.com.pg/order/product?pid=93e8d569-d072-452d-d8eb-54e853121607" target="_blank">
+            <a class="mt-5 py-3 px-4 w-full inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-violet-600 text-violet-600 hover:border-violet-500 hover:text-violet-500 focus:outline-hidden focus:border-violet-500 focus:text-violet-500 disabled:opacity-50 disabled:pointer-events-none dark:border-violet-500 dark:text-violet-500 dark:hover:text-violet-400 dark:hover:border-violet-400 dark:focus:text-violet-400 dark:focus:border-violet-400" href="https://client.jethrotech.com.pg/order/shop?catid=6d530876-8251-d486-213c-147e390921e6" target="_blank">
               Get started
             </a>
           </div>

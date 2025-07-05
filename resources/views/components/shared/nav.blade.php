@@ -41,7 +41,7 @@
                     <a class="group flex gap-x-5 text-violet-800 hover:bg-gray-100 focus:outline-hidden focus:bg-gray-100 rounded-lg p-4 dark:text-neutral-200 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800" href="{{ route('home.plans') }}">
                       <svg class="shrink-0 size-5 mt-1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="7" height="7" x="14" y="3" rx="1"/><path d="M10 21V8a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-5a1 1 0 0 0-1-1H3"/></svg>
                       <div class="grow">
-                        <p class="font-medium text-violet-800 dark:text-neutral-200">Hosting Plans & Pricings</p>
+                        <p class="font-medium text-violet-800 dark:text-neutral-200">Hosting Plans & Prices</p>
                         <p class="text-sm text-gray-500 group-hover:text-gray-800 group-focus:text-gray-800 dark:text-neutral-500 dark:group-hover:text-neutral-200 dark:group-focus:text-neutral-200">Discover our hosting plans and subscribe.</p>
                       </div>
                     </a>
