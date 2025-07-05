@@ -131,7 +131,7 @@
                <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
-                  2G Disk space
+                  4G Disk space
                 </span>
               </li>
 
@@ -197,7 +197,7 @@
               <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
-                  4G Disk space
+                  6G Disk space
                 </span>
               </li>
 
@@ -222,6 +222,263 @@
               K489 <span class="text-sm text-gray-500 dark:text-neutral-500">/month</span>
             </span>
             <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">Advanced features for scaling your corporate organisations or business enterprise</p>
+
+            <ul class="mt-7 space-y-2.5 text-sm">
+              <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  20 domains
+                </span>
+              </li>
+
+              <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  40 sub domains
+                </span>
+              </li>
+
+               <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  60 Websites
+                </span>
+              </li>
+
+               <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  100 Email accounts
+                </span>
+              </li>
+
+              <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  60 MySQL databases
+                </span>
+              </li>
+
+              <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  20G Disk space
+                </span>
+              </li>
+
+               <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  Full access to Control Panel
+                </span>
+              </li>
+            </ul>
+
+            <a class="mt-5 py-3 px-4 w-full inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-violet-600 text-violet-600 hover:border-violet-500 hover:text-violet-500 focus:outline-hidden focus:border-violet-500 focus:text-violet-500 disabled:opacity-50 disabled:pointer-events-none dark:border-violet-500 dark:text-violet-500 dark:hover:text-violet-400 dark:hover:border-violet-400 dark:focus:text-violet-400 dark:focus:border-violet-400" href="https://client.jethrotech.com.pg/order/product?pid=93e8d569-d072-452d-d8eb-54e853121607" target="_blank">
+              Get started
+            </a>
+          </div>
+          <!-- End Card -->
+        </div>
+        <!-- End Grid -->
+
+         <!-- Grid 2-->
+        <div class="mt-6 md:mt-12 grid sm:grid-cols-2 lg:grid-cols-4 gap-3 md:gap-6 lg:gap-3 xl:gap-6 lg:items-center">
+          <!-- Card -->
+          <div class="flex flex-col bg-white border border-gray-200 text-center rounded-2xl p-4 md:p-8 dark:bg-neutral-900 dark:border-neutral-800">
+            <h4 class="font-medium text-lg text-gray-800 dark:text-neutral-200">Custom</h4>
+            <span class="mt-7 font-bold text-3xl md:text-4xl xl:text-5xl text-gray-800 dark:text-neutral-200">Custom</span>
+            <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">We customise the plan according to your requirements.</p>
+
+            <ul class="mt-7 space-y-2.5 text-sm">
+              <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  Unlimited domains
+                </span>
+              </li>
+
+              <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                   Unlimited sub domains
+                </span>
+              </li>
+              <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                 Unlimited websites 
+                </span>
+              </li>
+               <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                   Unlimited email accounts
+                </span>
+              </li>
+              <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                   Unlimited MySQL databases 
+                </span>
+              </li>
+
+               <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                   Unlimited Disk space
+                </span>
+              </li>
+
+               <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  Premium support
+                </span>
+              </li>
+
+              <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  Full Access to Control Panel 
+                </span>
+              </li>
+
+            </ul>
+
+            <a class="mt-5 py-3 px-4 w-full inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-violet-600 text-violet-600 hover:border-violet-500 hover:text-violet-500 focus:outline-hidden focus:border-violet-500 focus:text-violet-500 disabled:opacity-50 disabled:pointer-events-none dark:border-violet-500 dark:text-violet-500 dark:hover:text-violet-400 dark:hover:border-violet-400 dark:focus:text-violet-400 dark:focus:border-violet-400" href="" >
+              Email support@jethrotech.com.pg to get started
+            </a>
+          </div>
+          <!-- End Card -->
+
+           <!-- Card -->
+          <div class="flex flex-col bg-white border border-gray-200 text-center rounded-2xl p-4 md:p-8 dark:bg-neutral-900 dark:border-neutral-800">
+            <h4 class="font-medium text-lg text-gray-800 dark:text-neutral-200">WordPress Hosting</h4>
+            <span class="mt-5 font-bold text-3xl md:text-4xl xl:text-5xl text-gray-800 dark:text-neutral-200">
+              K500 <span class="text-sm text-gray-500 dark:text-neutral-500">/month</span>
+            </span>
+            <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">We help you with the installation including reqular plugin updates, security and backup.
+              You take care of the content and the frontend design.
+            </p>
+
+            <ul class="mt-7 space-y-2.5 text-sm">
+              <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  5GB Storage
+                </span>
+              </li>
+
+              <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  Fully Managed
+                </span>
+              </li>
+
+               <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  1 Managed Installs
+                </span>
+              </li>
+
+               <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                 LiteSpeed Cache
+                </span>
+              </li>
+
+              <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                 99.9% Uptime Guarantee
+                </span>
+              </li>
+
+               <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  Full Access to Admin Portal
+                </span>
+              </li>
+              
+            </ul>
+
+            <a class="mt-5 py-3 px-4 w-full inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-violet-600 text-violet-600 hover:border-violet-500 hover:text-violet-500 focus:outline-hidden focus:border-violet-500 focus:text-violet-500 disabled:opacity-50 disabled:pointer-events-none dark:border-violet-500 dark:text-violet-500 dark:hover:text-violet-400 dark:hover:border-violet-400 dark:focus:text-violet-400 dark:focus:border-violet-400" href="https://client.jethrotech.com.pg/order/shop?catid=01e96d29-8537-d4e0-6d7b-14e120637085" target="_blank">
+              Get started
+            </a>
+          </div>
+          <!-- End Card -->
+
+          <!-- Card -->
+          <div class="flex flex-col bg-white border border-gray-200 text-center rounded-2xl p-4 md:p-8 dark:bg-neutral-900 dark:border-neutral-800">
+            <h4 class="font-medium text-lg text-gray-800 dark:text-neutral-200">Reseller Hosting</h4>
+            <span class="mt-5 font-bold text-3xl md:text-4xl xl:text-5xl text-gray-800 dark:text-neutral-200">
+              K500 <span class="text-sm text-gray-500 dark:text-neutral-500">/month</span>
+            </span>
+            <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">
+              Everything you need to start your own web hosting business by providing limitless hosting products and services to your clients.              
+            </p>
+
+            <ul class="mt-7 space-y-2.5 text-sm">
+              <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  Unlimited Control Panel Accounts
+                </span>
+              </li>
+
+              <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                Unlimited Hosting Packages
+                </span>
+              </li>
+
+               <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                 Unlimited Disk Space
+                </span>
+              </li>
+
+               <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  Set your own prices
+                </span>
+              </li>
+
+              <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  Unlimited Bandwidth
+                </span>
+              </li>
+               <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  Access to Reseller Control Panel 
+                </span>
+              </li>
+            </ul>
+
+            <a class="mt-5 py-3 px-4 w-full inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-violet-600 text-violet-600 hover:border-violet-500 hover:text-violet-500 focus:outline-hidden focus:border-violet-500 focus:text-violet-500 disabled:opacity-50 disabled:pointer-events-none dark:border-violet-500 dark:text-violet-500 dark:hover:text-violet-400 dark:hover:border-violet-400 dark:focus:text-violet-400 dark:focus:border-violet-400" href="https://client.jethrotech.com.pg/order/product?pid=2e071d93-1d5e-4627-762a-646028758396" target="_blank">
+              Get started
+            </a>
+          </div>
+          <!-- End Card -->
+
+          <!-- Card -->
+          <div class="flex flex-col bg-white border border-gray-200 text-center rounded-2xl p-4 md:p-8 dark:bg-neutral-900 dark:border-neutral-800">
+            <h4 class="font-medium text-lg text-gray-800 dark:text-neutral-200">VPS Hosting</h4>
+            <span class="mt-5 font-bold text-3xl md:text-4xl xl:text-5xl text-gray-800 dark:text-neutral-200">
+              K489 <span class="text-sm text-gray-500 dark:text-neutral-500">/month</span>
+            </span>
+            <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">Host your server in the cloud and fully manage it remotely.</p>
 
             <ul class="mt-7 space-y-2.5 text-sm">
               <li class="flex gap-x-2">

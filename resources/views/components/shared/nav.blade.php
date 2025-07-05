@@ -34,7 +34,7 @@
                       <svg class="shrink-0 size-5 mt-1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
                       <div class="grow">
                         <p class="font-medium text-violet-800 dark:text-neutral-200">Domains</p>
-                        <p class="text-sm text-gray-500 group-hover:text-gray-800 group-focus:text-gray-800 dark:text-neutral-500 dark:group-hover:text-neutral-200 dark:group-focus:text-neutral-200">Regsister and secure business domains today.</p>
+                        <p class="text-sm text-gray-500 group-hover:text-gray-800 group-focus:text-gray-800 dark:text-neutral-500 dark:group-hover:text-neutral-200 dark:group-focus:text-neutral-200">Register and secure business domains today. We support & manage .PG and all other domains.</p>
                       </div>
                     </a>
 
@@ -46,37 +46,41 @@
                       </div>
                     </a>
 
-                    <a class="group flex gap-x-5 text-violet-800 hover:bg-gray-100 focus:outline-hidden focus:bg-gray-100 rounded-lg p-4 dark:text-neutral-200 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800" href="https://petstore.swagger.io/?url=https://demo.directadmin.com:2222/static/swagger.json" target="_blank">
+                    <a class="group flex gap-x-5 text-violet-800 hover:bg-gray-100 focus:outline-hidden focus:bg-gray-100 rounded-lg p-4 dark:text-neutral-200 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800" href="{{ route('home.plans') }}">
                       <svg class="shrink-0 size-5 mt-1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m7 11 2-2-2-2"/><path d="M11 13h4"/><rect width="18" height="18" x="3" y="3" rx="2" ry="2"/></svg>
                       <div class="grow">
-                        <p class="font-medium text-violet-800 dark:text-neutral-200">API Reference</p>
-                        <p class="text-sm text-gray-500 group-hover:text-gray-800 group-focus:text-gray-800 dark:text-neutral-500 dark:group-hover:text-neutral-200 dark:group-focus:text-neutral-200">Build custom integrations with our first-class API.</p>
+                        <p class="font-medium text-violet-800 dark:text-neutral-200">Reseller Hosting</p>
+                        <p class="text-sm text-gray-500 group-hover:text-gray-800 group-focus:text-gray-800 dark:text-neutral-500 dark:group-hover:text-neutral-200 dark:group-focus:text-neutral-200">Thinking of owning your own web hosting business, we provide reseller plans that allow you to do just that.</p>
                       </div>
                     </a>
                   </div>
 
                   <div class="flex flex-col mx-1 md:mx-0">
-                    <a class="group flex gap-x-5 text-violet-800 hover:bg-gray-100 focus:outline-hidden focus:bg-gray-100 rounded-lg p-4 dark:text-neutral-200 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800" href="https://evo.site-helper.com" target="_blank">
+                    <a class="group flex gap-x-5 text-violet-800 hover:bg-gray-100 focus:outline-hidden focus:bg-gray-100 rounded-lg p-4 dark:text-neutral-200 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800" href="{{ route('home.plans') }}">
                       <svg class="shrink-0 size-5 mt-1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg>
                       <div class="grow">
-                        <p class="font-medium text-violet-800 dark:text-neutral-200">Help Center</p>
-                        <p class="text-sm text-gray-500 group-hover:text-gray-800 group-focus:text-gray-800 dark:text-neutral-500 dark:group-hover:text-neutral-200 dark:group-focus:text-neutral-200">Learn how to manage, set up, and use your Control Panel more effectively.</p>
+                        <p class="font-medium text-violet-800 dark:text-neutral-200">WordPress Hosting</p>
+                        <p class="text-sm text-gray-500 group-hover:text-gray-800 group-focus:text-gray-800 dark:text-neutral-500 dark:group-hover:text-neutral-200 dark:group-focus:text-neutral-200">We don't just host your wordpress site, we help you setup your backend including plugin updates, security and backup.</p>
                       </div>
                     </a>
 
-                    <a class="group flex gap-x-5 text-violet-800 hover:bg-gray-100 focus:outline-hidden focus:bg-gray-100 rounded-lg p-4 dark:text-neutral-200 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800" href="https://github.com/Jethrotech-PNG" target="_blank">
+                    <a class="group flex gap-x-5 text-violet-800 hover:bg-gray-100 focus:outline-hidden focus:bg-gray-100 rounded-lg p-4 dark:text-neutral-200 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800" href="{{ route('home.plans') }}">
                       <svg class="shrink-0 size-5 mt-1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-4 8"/></svg>
                       <div class="grow">
-                        <p class="font-medium text-violet-800 dark:text-neutral-200">Developer Hub</p>
-                        <p class="text-sm text-gray-500 group-hover:text-gray-800 group-focus:text-gray-800 dark:text-neutral-500 dark:group-hover:text-neutral-200 dark:group-focus:text-neutral-200">Learn how to integrate or build on top of Jethrotech's code base.</p>
+                        <p class="font-medium text-violet-800 dark:text-neutral-200">VPS Hosting</p>
+                        <p class="text-sm text-gray-500 group-hover:text-gray-800 group-focus:text-gray-800 dark:text-neutral-500 dark:group-hover:text-neutral-200 dark:group-focus:text-neutral-200">
+                        Host your own server in the cloud & manage it remotely.
+                        </p>
                       </div>
                     </a>
 
                     <a class="group flex gap-x-5 text-violet-800 hover:bg-gray-100 focus:outline-hidden focus:bg-gray-100 rounded-lg p-4 dark:text-neutral-200 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800" href="https://client.jethrotech.com.pg/login" target="_blank">
                       <svg class="shrink-0 size-5 mt-1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" ><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
                       <div class="grow">
-                        <p class="font-medium text-violet-800 dark:text-neutral-200">Community Forum</p>
-                        <p class="text-sm text-gray-500 group-hover:text-gray-800 group-focus:text-gray-800 dark:text-neutral-500 dark:group-hover:text-neutral-200 dark:group-focus:text-neutral-200">Learn, share, and connect with other Jethrotech users.</p>
+                        <p class="font-medium text-violet-800 dark:text-neutral-200">Client Area</p>
+                        <p class="text-sm text-gray-500 group-hover:text-gray-800 group-focus:text-gray-800 dark:text-neutral-500 dark:group-hover:text-neutral-200 dark:group-focus:text-neutral-200">
+                          Manage all your Jethrotech products and services including bills more effectively with the client portal.
+                        </p>
                       </div>
                     </a>
                   </div>
@@ -84,7 +88,7 @@
                   <div class="flex flex-col pt-4 md:pt-0 mx-1 md:mx-0">
                     <span class="text-sm font-semibold uppercase text-violet-800 dark:text-neutral-200">Customer stories</span>
 
-                    <a class="mt-4 group flex gap-x-5 items-center focus:outline-hidden" href="https://client.jethrotech.com.pg/login" target="_blank">
+                    <a class="mt-4 group flex gap-x-5 items-center focus:outline-hidden" href="https://client.jethrotech.com.pg/auth/register" target="_blank">
                       <img class="w-40 h-auto rounded-lg" src="{{asset('img/favicon.png')}}" alt="Avatar">
                       <div class="grow">
                         <p class="text-gray-800 dark:text-neutral-200">Jethrotech Projects has proved to be most efficient cloud based client menagement portal for hosting companies.</p>

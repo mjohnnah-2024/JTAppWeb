@@ -44,7 +44,7 @@
     <!-- End Card -->
 
     <!-- Card -->
-    <a class="group flex flex-col bg-white border border-gray-200 shadow-2xs rounded-xl hover:shadow-md focus:outline-hidden focus:shadow-md transition dark:bg-neutral-900 dark:border-neutral-800" href="#">
+    <a class="group flex flex-col bg-white border border-gray-200 shadow-2xs rounded-xl hover:shadow-md focus:outline-hidden focus:shadow-md transition dark:bg-neutral-900 dark:border-neutral-800" href="{{ route('home.contact') }}">
       <div class="p-4 md:p-5">
         <div class="flex justify-between items-center gap-x-3">
           <div class="grow">
@@ -67,7 +67,7 @@
     <!-- End Card -->
 
     <!-- Card -->
-    <a class="group flex flex-col bg-white border border-gray-200 shadow-2xs rounded-xl hover:shadow-md focus:outline-hidden focus:shadow-md transition dark:bg-neutral-900 dark:border-neutral-800" href="#">
+    <a class="group flex flex-col bg-white border border-gray-200 shadow-2xs rounded-xl hover:shadow-md focus:outline-hidden focus:shadow-md transition dark:bg-neutral-900 dark:border-neutral-800" href="{{ route('home.plans') }}">
       <div class="p-4 md:p-5">
         <div class="flex justify-between items-center gap-x-3">
           <div class="grow">
@@ -87,7 +87,7 @@
     <!-- End Card -->
 
     <!-- Card -->
-    <a class="group flex flex-col bg-white border border-gray-200 shadow-2xs rounded-xl hover:shadow-md focus:outline-hidden focus:shadow-md transition dark:bg-neutral-900 dark:border-neutral-800" href="#">
+    <a class="group flex flex-col bg-white border border-gray-200 shadow-2xs rounded-xl hover:shadow-md focus:outline-hidden focus:shadow-md transition dark:bg-neutral-900 dark:border-neutral-800" href="{{ route('home.plans') }}">
       <div class="p-4 md:p-5">
         <div class="flex justify-between items-center gap-x-3">
           <div class="grow">
@@ -128,7 +128,7 @@
     <!-- End Card -->
 
     <!-- Card -->
-    <a class="group flex flex-col bg-white border border-gray-200 shadow-2xs rounded-xl hover:shadow-md focus:outline-hidden focus:shadow-md transition dark:bg-neutral-900 dark:border-neutral-800" href="#">
+    <a class="group flex flex-col bg-white border border-gray-200 shadow-2xs rounded-xl hover:shadow-md focus:outline-hidden focus:shadow-md transition dark:bg-neutral-900 dark:border-neutral-800" href="{{ route('home.plans') }}">
       <div class="p-4 md:p-5">
         <div class="flex justify-between items-center gap-x-3">
           <div class="grow">
@@ -148,7 +148,7 @@
     <!-- End Card -->
 
     <!-- Card -->
-    <a class="group flex flex-col bg-white border border-gray-200 shadow-2xs rounded-xl hover:shadow-md focus:outline-hidden focus:shadow-md transition dark:bg-neutral-900 dark:border-neutral-800" href="#">
+    <a class="group flex flex-col bg-white border border-gray-200 shadow-2xs rounded-xl hover:shadow-md focus:outline-hidden focus:shadow-md transition dark:bg-neutral-900 dark:border-neutral-800" href="{{ route('home.plans') }}">
       <div class="p-4 md:p-5">
         <div class="flex justify-between items-center gap-x-3">
           <div class="grow">
