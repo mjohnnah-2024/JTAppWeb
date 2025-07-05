@@ -2,7 +2,7 @@
 <x-layout.app>
    @section('title', content: 'Contact Us')
 
-   <br /> <br /> <br /> <br />                 
+   <br /> <br />               
  <!-- Hero -->
     <div class="relative">
       <!-- Gradients -->
@@ -39,7 +39,7 @@
           Fill in the form
         </h2>
 
-        <form action="{{ route('home.savecontact') }}" method="POST" >
+        <form  action="{{ route('home.savecontact') }}" method="POST" >
           @csrf
           <div class="grid gap-4">
             <!-- Grid -->
@@ -82,8 +82,8 @@
                 <option value="Domain Registration" {{ old('query') == "Domain Registration" ? 'selected' : '' }}>Domain inquiry</option>
                 <option value="Reseller Hosting" {{ old('query') == 'Reseller Hosting' ? 'selected' : '' }}>Reseller Hosting</option>
                 <option value="Hosting" {{ old('query') == 'Shared Hosting' ? 'slected' : '' }}>Shared Hosting</option>
-                <option value="Website Development" {{ old('query') == 'Website &App Development' ? 'selected' : '' }}>Website or application Development</option>
-                 <option value="Consulting & Support" {{ old('query') == 'Consulting & Support' ? 'selected' : '' }}>Website or application Development</option>                
+                <option value="Website Development" {{ old('query') == 'Website &App Development' ? 'selected' : '' }}>Website or App Development</option>
+                 <option value="Consulting & Support" {{ old('query') == 'Consulting & Support' ? 'selected' : '' }}>Consulting & Support</option>                
                 <option value="Domain Qeury" {{ old('query') == 'Domain Query' ? 'selected' : '' }}>Domain Query</option>
                  <option value="Email Hosting" {{ old('query') == 'Email Hosting' ? 'selected' : '' }}>Email Hosting</option>
                  <option value="VPS Hosting" {{ old('query') == 'VPS Hosting' ? 'selected' : '' }}>VPS Hosting</option>
@@ -105,20 +105,23 @@
 
             <div>
               <label for="hs-about-contacts-1" class="sr-only">Details</label>
-              <textarea id="hs-about-contacts-1" name="message" rows="4" class="py-2.5 sm:py-3 px-4 block w-full border-gray-200 rounded-lg sm:text-sm focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-400 dark:placeholder-neutral-500 dark:focus:ring-neutral-600" placeholder="Message or Query Details">
+              <textarea id="hs-about-contacts-1" name="message" rows="5" class="py-2.5 sm:py-3 px-4 block w-full border-gray-200 rounded-lg sm:text-sm focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-400 dark:placeholder-neutral-500 dark:focus:ring-neutral-600" placeholder="Message or Query Details">
                 {{ old('message') }}
-              </textarea>
-            </div>
+              </textarea>            
              <div class="mt-2 text-sm text-red-700 dark:text-red-400">
               @error('message')
                 {{ $message }}
               @enderror
              </div>
+           </div>
           </div>
+
           <!-- End Grid -->
 
           <div class="mt-4 grid">
-            <button type="submit" class="w-full py-3 px-4 inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-transparent bg-violet-600 text-white hover:bg-violet-700 focus:outline-hidden focus:bg-violet-700 disabled:opacity-50 disabled:pointer-events-none">Send Enquiry</button>
+            <button type="submit" class="w-full py-3 px-4 inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-transparent bg-violet-600 text-white hover:bg-violet-700 focus:outline-hidden focus:bg-violet-700 disabled:opacity-50 disabled:pointer-events-none"
+           
+            >Send Enquiry</button>
           </div>
 
           <div class="mt-3 text-center">

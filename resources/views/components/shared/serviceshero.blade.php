@@ -116,7 +116,7 @@
               Consulting & Support
             </h3>
             <p class="text-sm text-gray-500 dark:text-neutral-500">             
-              If you have your own in-house development team, we can empower your team to help achieve your goals by providing advisory services in the areas of solution architecure and DevOps.
+              If you have your own in-house development team, we can empower your team by providing advisory services in the areas of solution architecure and DevOps. We aslo provide advisory services to our resellers clients and other web development agencies.
             <p>
           </div>
           <div>

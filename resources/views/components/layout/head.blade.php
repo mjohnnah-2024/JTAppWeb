@@ -5,7 +5,7 @@
     <meta name="keywords" content="Web Hosting Company, Complelte Hosting Solutions, .PG Domains, PNG Hosting, Jethro Tech, Jethrotech, Jethro Technologies, PNG Web Hosting, PNG Domain Registration, PNG Web Development, PNG IT Solutions">
     <title> @yield('title') - Jethro Tech </title>
     <link href="{{asset('img/favicon.png')}}" rel="icon">
-
+    <script src="https://cdn.jsdelivr.net/npm/htmx.org@2.0.6/dist/htmx.min.js" integrity="sha384-Akqfrbj/HpNVo8k11SXBb6TlBWmXXlYQrCSqEWmyKJe+hDm3Z/B2WVG4smwBkRVm" crossorigin="anonymous"></script>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap" rel="stylesheet">
