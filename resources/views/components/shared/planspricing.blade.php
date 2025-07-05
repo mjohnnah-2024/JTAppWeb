@@ -10,8 +10,8 @@
       <div class="max-w-[85rem] px-4 pt-10 sm:px-6 lg:px-8 lg:pt-14 mx-auto">
         <!-- Title -->
         <div class="max-w-2xl mx-auto text-center mb-10">
-          <h2 class="text-3xl leading-tight font-bold md:text-4xl md:leading-tight lg:text-5xl lg:leading-tight bg-clip-text bg-linear-to-r from-violet-600 to-fuchsia-700 text-transparent">Hosting Plans and Pricing</h2>
-          <p class="mt-2 lg:text-lg text-gray-800 dark:text-neutral-200">Whatever your business requirements, our offers evolve according to your needs. Note that we offer free Control Panel access to all our subscribers regardless of their plan type</p>
+          <h2 class="text-3xl leading-tight font-bold md:text-4xl md:leading-tight lg:text-5xl lg:leading-tight bg-clip-text bg-linear-to-r from-violet-600 to-fuchsia-700 text-transparent">Hosting Plans and Prices</h2>
+          <p class="mt-2 lg:text-lg text-gray-800 dark:text-neutral-200">Whatever your business requirements, our offers evolve according to your needs. We offer free Control Panel access to all our subscribers</p>
         </div>
         <!-- End Title -->
 
@@ -65,6 +65,13 @@
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
                   3 MySQL databases 
+                </span>
+              </li>
+
+               <li class="flex gap-x-2">
+                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <span class="text-gray-800 dark:text-neutral-400">
+                  4GB Disk space
                 </span>
               </li>
 
@@ -131,7 +138,7 @@
                <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
-                  4G Disk space
+                  4GB Disk space
                 </span>
               </li>
 
@@ -197,7 +204,7 @@
               <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
-                  6G Disk space
+                  6GB Disk space
                 </span>
               </li>
 
@@ -262,7 +269,7 @@
               <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
-                  20G Disk space
+                  20GB Disk space
                 </span>
               </li>
 
@@ -519,7 +526,7 @@
               <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
-                  10G Disk space
+                  10GB Disk space
                 </span>
               </li>
 
