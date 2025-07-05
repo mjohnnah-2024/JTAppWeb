@@ -1,7 +1,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="i-Finance PNG Limited - is a loan finance company.">
+    <meta name="description" content="Jethro Tech - is a PNG based technology web hosting company.">
     <meta name="keywords" content="Web Hosting Company, Complelte Hosting Solutions, .PG Domains, PNG Hosting, Jethro Tech, Jethrotech, Jethro Technologies, PNG Web Hosting, PNG Domain Registration, PNG Web Development, PNG IT Solutions">
     <title> @yield('title') - Jethro Tech </title>
     <link href="{{asset('img/favicon.png')}}" rel="icon">
