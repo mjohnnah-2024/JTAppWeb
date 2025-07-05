@@ -363,7 +363,7 @@
           <div class="flex flex-col bg-white border border-gray-200 text-center rounded-2xl p-4 md:p-8 dark:bg-neutral-900 dark:border-neutral-800">
             <h4 class="font-medium text-lg text-gray-800 dark:text-neutral-200">WordPress Hosting</h4>
             <span class="mt-5 font-bold text-3xl md:text-4xl xl:text-5xl text-gray-800 dark:text-neutral-200">
-              K500 <span class="text-sm text-gray-500 dark:text-neutral-500">/month</span>
+              K350 <span class="text-sm text-gray-500 dark:text-neutral-500">/month</span>
             </span>
             <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">We help you with the installation including reqular plugin updates, security and backup.
               You take care of the content and the frontend design.
@@ -424,7 +424,7 @@
           <div class="flex flex-col bg-white border border-gray-200 text-center rounded-2xl p-4 md:p-8 dark:bg-neutral-900 dark:border-neutral-800">
             <h4 class="font-medium text-lg text-gray-800 dark:text-neutral-200">Reseller Hosting</h4>
             <span class="mt-5 font-bold text-3xl md:text-4xl xl:text-5xl text-gray-800 dark:text-neutral-200">
-              K500 <span class="text-sm text-gray-500 dark:text-neutral-500">/month</span>
+              K6000 <span class="text-sm text-gray-500 dark:text-neutral-500">/month</span>
             </span>
             <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">
               Everything you need to start your own web hosting business by providing limitless hosting products and services to your clients.              
@@ -483,7 +483,7 @@
           <div class="flex flex-col bg-white border border-gray-200 text-center rounded-2xl p-4 md:p-8 dark:bg-neutral-900 dark:border-neutral-800">
             <h4 class="font-medium text-lg text-gray-800 dark:text-neutral-200">VPS Hosting</h4>
             <span class="mt-5 font-bold text-3xl md:text-4xl xl:text-5xl text-gray-800 dark:text-neutral-200">
-              K489 <span class="text-sm text-gray-500 dark:text-neutral-500">/month</span>
+              K500 <span class="text-sm text-gray-500 dark:text-neutral-500">/month</span>
             </span>
             <p class="mt-2 text-sm text-gray-500 dark:text-neutral-500">Host your server in the cloud and fully manage it remotely.</p>
 
@@ -491,49 +491,42 @@
               <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
-                  20 domains
+                  4 Cores
                 </span>
               </li>
 
               <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
-                  40 sub domains
+                  8GB RAM
                 </span>
               </li>
 
                <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
-                  60 Websites
+                  120GB SSD Storage
                 </span>
               </li>
 
                <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
-                  100 Email accounts
+                 4096GB Traffic Package
                 </span>
               </li>
 
               <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
-                  60 MySQL databases
+                  30Mbps Bandwith
                 </span>
-              </li>
-
-              <li class="flex gap-x-2">
-                <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
-                <span class="text-gray-800 dark:text-neutral-400">
-                  10GB Disk space
-                </span>
-              </li>
+              </li>              
 
                <li class="flex gap-x-2">
                 <svg class="shrink-0 mt-0.5 size-4 text-violet-900" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
                 <span class="text-gray-800 dark:text-neutral-400">
-                  Full access to Control Panel
+                 Linux/Windows System
                 </span>
               </li>
             </ul>
